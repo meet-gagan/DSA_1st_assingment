@@ -99,6 +99,7 @@ int main(){
                 break;
             case 5:
                 cout << "Exiting program." << endl;
+                
                 break;
             default:
                 cout << "Invalid choice. Please try again." << endl;
