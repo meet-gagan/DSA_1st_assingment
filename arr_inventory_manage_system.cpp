@@ -3,6 +3,7 @@
 #include<string>
 using namespace std;
 
+
 class Inventory{
 public:
     int p_q[100][2];
