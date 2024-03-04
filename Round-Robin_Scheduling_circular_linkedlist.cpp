@@ -62,6 +62,7 @@ public:
         // Rotate the circle for the next iteration
         head = head->next;
     }
+
 };
 int main() {
     int timeQuantum;
